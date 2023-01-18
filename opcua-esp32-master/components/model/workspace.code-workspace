@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "opcua-esp32-master",
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ethernet_connect.h": "c",
+			"dht22.h": "c",
+			"model.h": "c",
+			"open62541.h": "c"
+		},
+		"C_Cpp.errorSquiggles": "Disabled"
+	}
+}
